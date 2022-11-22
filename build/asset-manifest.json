@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FullStackFontEndReactCRUD/static/css/main.756af292.css",
+    "main.js": "/FullStackFontEndReactCRUD/static/js/main.119e6782.js",
+    "static/js/787.39b6c2ff.chunk.js": "/FullStackFontEndReactCRUD/static/js/787.39b6c2ff.chunk.js",
+    "index.html": "/FullStackFontEndReactCRUD/index.html",
+    "main.756af292.css.map": "/FullStackFontEndReactCRUD/static/css/main.756af292.css.map",
+    "main.119e6782.js.map": "/FullStackFontEndReactCRUD/static/js/main.119e6782.js.map",
+    "787.39b6c2ff.chunk.js.map": "/FullStackFontEndReactCRUD/static/js/787.39b6c2ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.756af292.css",
+    "static/js/main.119e6782.js"
+  ]
+}
